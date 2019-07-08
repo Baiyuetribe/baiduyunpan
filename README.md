@@ -1,6 +1,6 @@
 ## 百度云盘Docker版
 
-适用范围：百度云盘linux版，支持centos、debian、ubuntu、树莓派，也只是Windows、mac等系统
+适用范围：基于百度云盘linux版开发，支持centos、debian、ubuntu、树莓派，也支持Windows、mac等系统
 
 ### 特点：
 
